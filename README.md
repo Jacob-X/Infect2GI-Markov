@@ -4,7 +4,7 @@
 
 **Using electronic medical records, we applied Markov chain modeling to characterize transition patterns between 47 infectious diseases and five gastrointestinal cancers (gastric, colorectal, liver, esophageal, and pancreatic). Transition networks identified 25 direct and four multi-step infection-to-cancer pathways. Centrality analysis highlighted key infection hubs and bridges, including fungal infections, UTI, acute bronchitis, HBV/HCV, and H. pylori, which play major roles in driving and mediating cancer transitions. Biomarker analysis further revealed significant differences in blood, biochemical, and urinary indicators between cancer cases and controls, suggesting potential early risk signals. Data access is subject to approval; requests should be directed to the corresponding database administrators.**
 
-![image-20251130141853197](/Users/xutianxin/Library/Application Support/typora-user-images/image-20251130141853197.png)
+![image-20251130143104322](/Volumes/data_files/markov_codes/markov GI cancers/github codes/image-20251130143104322.png)
 
 
 
