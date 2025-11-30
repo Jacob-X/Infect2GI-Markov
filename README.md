@@ -2,7 +2,7 @@
 
 
 
-**Using electronic medical records, we applied Markov chain modeling to characterize transition patterns between 47 infectious diseases and five gastrointestinal cancers (gastric, colorectal, liver, esophageal, and pancreatic). Transition networks identified 25 direct and four multi-step infection-to-cancer pathways. Centrality analysis highlighted key infection hubs and bridges, including fungal infections, UTI, acute bronchitis, HBV/HCV, and H. pylori, which play major roles in driving and mediating cancer transitions. Biomarker analysis further revealed significant differences in blood, biochemical, and urinary indicators between cancer cases and controls, suggesting potential early risk signals. Data access is subject to approval; requests should be directed to the corresponding database administrators.**
+**Using electronic medical records, we applied Markov chain modeling to characterize transition patterns between 47 infectious diseases and five gastrointestinal cancers (gastric, colorectal, liver, esophageal, and pancreatic). Transition networks identified 25 direct and four multi-step infection-to-cancer pathways. Centrality analysis highlighted key infection hubs and bridges, including fungal infections, UTI, acute bronchitis, HBV/HCV, and H. pylori, which play major roles in driving and mediating cancer transitions. Biomarker analysis further revealed significant differences in blood, biochemical, and urinary indicators between cancer cases and controls, suggesting potential early risk signals.** 
 
 ![Markov transition network](images/image-20251130143104322.png)
 
@@ -37,3 +37,7 @@
 7. `Disease and Cancer Transition Martix Heatmap.R`
 
    **Disease and Cancer Transition Matrix Heatmap Visualization.** Reads and processes the state transition probability data between diseases and cancer, then generates and saves a **Heatmap** to visually represent the probability and pattern of mutual transitions between different states.
+
+   
+
+**Data access is subject to approval; requests should be directed to the corresponding database administrators.**
